@@ -6,20 +6,20 @@ $main_navigation = [
     ],
     [
         'title' => 'Categories',
-        'url' => 'category.php',
+        'url' => 'categories.php',
     ],
     [
-        'title' => 'Recipe',
-        'url' => 'recipe.php',
+        'title' => 'Recipes',
+        'url' => 'recipes.php',
     ],
 ];
 
 ?>
 <header class="px-2 py-4 bg-red">
   <div class="max-w-7xl flex justify-between mx-auto">
-    <a href="<?php echo site_url(); ?>">
+    <!-- <a href="<?php echo site_url(); ?>">
       <img src="<?php echo site_url(); ?>/images/logo.png" alt="logo">
-    </a>
+    </a> -->
 
     <nav class="text-white flex items-center">
       <?php

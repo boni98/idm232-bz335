@@ -25,7 +25,7 @@
   </footer>
 
 
-<script src="dist/scripts/main.js"></script>
+<script src="scripts/main.js"></script>
 </body>
 
 </html>
